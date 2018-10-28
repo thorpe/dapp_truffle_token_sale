@@ -1,2 +1,1 @@
-# dapp_truffle_ico
-dapp_truffle_ico
+# 토큰세일 기본 셈플 코드 작성용

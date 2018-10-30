@@ -8,7 +8,7 @@ import "zeppelin-solidity/contracts/crowdsale/distribution/RefundableCrowdsale.s
  * @title ExampleCrowdsale
  * @dev Minted refundable crowdsale with min and max cap, min purchase, pre-sale and sale time and rate
  */
-contract ExampleCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
+contract ExampleCrowdSale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
     using SafeMath for uint256;
 
     uint256 public preSaleRate;
